@@ -13,9 +13,9 @@
 
 
 提供的主要js如下：
-发送命令：test.vue
-发送命令、数据解析、数据下载：public.js(其中数据存储有调用华为的接口，可以根据需求修改)
-实时心电画图：canvas.js
-store文件夹里面是一些公共的方法和参数；
-getters.js ：从蓝牙接收到数据的解析
-common.js：小端模式、int转16进制、Unicode编码转为字符
+- 发送命令：test.vue
+- 发送命令、数据解析、数据下载：public.js(其中数据存储有调用华为的接口，可以根据需求修改)
+- 实时心电画图：canvas.js
+- store文件夹里面是一些公共的方法和参数
+- getters.js ：从蓝牙接收到数据的解析
+- common.js：小端模式、int转16进制、Unicode编码转为字符
